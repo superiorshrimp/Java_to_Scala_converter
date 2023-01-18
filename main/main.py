@@ -19,7 +19,7 @@ def main(argv):
     visitor = JVisitor()
     result = visitor.visitCompilationUnit(tree)
     writeToFile("result.scala", result)
-    print(result)
+    #print(result)
 
 if __name__ == '__main__':
     main(sys.argv)
