@@ -13,7 +13,7 @@ def replace(a, b, path_from, path_to, insert=None):
     fout.close()
 
 def main(argv):
-    java_paths = ["j.java", "switch.java", "./java_examples/Calculator.java", "./java_examples/GuessingGame.java", "./java_examples/Hello.java", "./java_examples/Knight.java"]
+    java_paths = ["./java_examples/j.java", "./java_examples/switch.java", "./java_examples/Calculator.java", "./java_examples/GuessingGame.java", "./java_examples/Hello.java", "./java_examples/Knight.java"]
     if len(argv) > 1:
         if len(argv) != 2:
             print("Usage: python p.py [java file path]")

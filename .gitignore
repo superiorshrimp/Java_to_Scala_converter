@@ -4,3 +4,5 @@ __pycache__
 *.interp
 *.tokens
 *.temp
+JParserVisitor.py
+result.scala
