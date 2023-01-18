@@ -1,4 +1,4 @@
-public class HelloWorld {
+public class Hello {
     public static void main(String[] args) {
         int i = 10, j = 3;
         double f = 0.0;
@@ -9,4 +9,4 @@ public class HelloWorld {
         System.out.println("HEJO");
     }
 }
- 
+
