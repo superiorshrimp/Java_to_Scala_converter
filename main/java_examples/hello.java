@@ -9,13 +9,4 @@ public class HelloWorld {
         System.out.println("HEJO");
     }
 }
-
-/*
- * member declaration ->
- * method declaration ->
- * method body ->
- * block ->
- * block statement ->
- * visit statemnt ->
- * visit expression
- */
+ 
