@@ -11,6 +11,6 @@ Wymagania:<br />
 Jak włączyć?<br />
 1. Wejść do folderu /main<br />
 2. Wpisać komendę uruchamiającą plik run.py (`python run.py`)
-3. Wygenerowany zostanie plik w Scali result.scala. Działanie wyngerowanego można sprawdzić na stronie https://scastie.scala-lang.org/, (trzeba się upewnić, że w "Build Settings" została wybrana wesja Scali 2.13.10 dla na która kompilowany jest kod z Javy). 
+3. Wygenerowany zostanie plik w Scali result.scala. Działanie wygenerowanego kodu można sprawdzić na stronie https://scastie.scala-lang.org/, (trzeba się upewnić, że w "Build Settings" została wybrana wesja Scali 2.13.10 dla na która kompilowany jest kod z Javy). 
 
 Aby wybrać źródłowy kod w Javie do przekonwertowania należy dodać jego lokalizację w stosunku do folderu /main do komendy pythonowej (`python run.py ./folder1/folder2/folder3/kod_w_javie.java`)
