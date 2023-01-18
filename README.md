@@ -1,2 +1,3 @@
-# Java_to_Scala_converter
+# Java to Scala converter
+
 Projekt z przedmiotu Metod i Algorytmów Kompilacji
