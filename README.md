@@ -7,3 +7,10 @@ Wymagania:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;-> Python 3.9 (oraz biblioteki:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> antlr python runtime: `pip install antlr4-python3-runtime`<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> inspect: `pip install inspect`<br />
+
+Jak włączyć?<br />
+1. Wejść do folderu /main<br />
+2. Wpisać komendę uruchamiającą plik run.py (`python run.py`)
+3. W terminalu wypiszą się wygenerowane pliki w Scali 2
+
+Aby wybrać źródłowy kod w Javie do przekonwertowania należy dodać jego lokalizację w stosunku do folderu /main do komendy pythonowej (`python run.py ./folder1/folder2/folder3/kod_w_javie.java`)
